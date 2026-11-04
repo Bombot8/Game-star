@@ -1,0 +1,12 @@
+{
+  "name": "gamestats",
+  "version": "0.7.0",
+  "private": true,
+  "description": "GameStats beta 0.7 — profils Roblox, îles Fortnite publiques, télémétrie Rocket League et structure Valorant",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
